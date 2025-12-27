@@ -1,1 +1,14 @@
-# placeholder
+# CODEOWNERS file for Application Repository
+# This file lists who must review updates made to the application.
+
+# Rule 1: Default owners for the application
+# Any change not matched by a specific rule will be reviewed by these owners
+* @app-owner @app-backup
+
+# Rule 2: Business logic and core features
+# Files that control how the application works
+/app/ @app-owner
+
+# Rule 3: User-facing components
+# Files that affect screens, pages, and user interactions
+/ui/ @ui-owner
