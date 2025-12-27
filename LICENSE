@@ -1,1 +1,17 @@
-# placeholder
+MIT License
+
+Copyright (c) 2025 cloud-infra-org
+
+This repository contains CI/CD workflow and automation configuration files.
+Permission is granted to use, copy, modify, and share these files for build
+and deployment automation purposes.
+
+The following rules must be followed:
+1. This license and copyright notice must be included with the files.
+2. Changes to shared pipelines must be reviewed before being used.
+3. These workflow files must not be reused for unrelated projects without approval.
+
+The CI/CD configurations are provided "as is", without any warranty.
+The organization is not responsible for failures caused by incorrect workflow changes.
+
+By accessing this repository, you accept these conditions.
